@@ -1,11 +1,6 @@
 # Multimodal Housing Price Prediction
 
-## 🚀 DevelopersHub Corporation Internship: Advanced Task 3
-
-This project was completed as part of the AI/ML Engineering Advanced Internship at DevelopersHub Corporation. It demonstrates a **multimodal machine learning** approach to property valuation, leveraging both structured (tabular) and unstructured (image) data.
-
-
-## 🎯 Objective of the Task
+## 🎯 Objective
 
 The primary goal was to predict housing sales prices by fusing information from two distinct data modalities:
 1.  **Tabular Data:** Structured house attributes (e.g., area, bedrooms).
